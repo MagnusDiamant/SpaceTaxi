@@ -1,0 +1,11 @@
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/SpaceTaxi-3/bin/Debug/SpaceTaxi_3.exe
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/SpaceTaxi-3/bin/Debug/SpaceTaxi_3.pdb
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/SpaceTaxi-3/bin/Debug/DIKUArcade.dll
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/SpaceTaxi-3/bin/Debug/OpenTK.dll
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/SpaceTaxi-3/bin/Debug/DIKUArcade.pdb
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/SpaceTaxi-3/bin/Debug/OpenTK.xml
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/SpaceTaxi-3/obj/Debug/SpaceTaxi-3.csproj.CoreCompileInputs.cache
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/SpaceTaxi-3/obj/Debug/SpaceTaxi_3.exe
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/SpaceTaxi-3/obj/Debug/SpaceTaxi_3.pdb
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/SpaceTaxi-3/obj/Debug/SpaceTaxi-3.csprojAssemblyReference.cache
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/SpaceTaxi-3/obj/Debug/SpaceTaxi-3.csproj.CopyComplete

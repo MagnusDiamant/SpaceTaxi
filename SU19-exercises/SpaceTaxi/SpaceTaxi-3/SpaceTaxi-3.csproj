@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8FE4017E-9519-4351-AE61-B9B4161FC9F8}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SpaceTaxi_3</RootNamespace>
+    <AssemblyName>SpaceTaxi_3</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <HintPath>..\..\..\..\..\..\..\..\..\Library\Frameworks\Mono.framework\Versions\5.10.1\lib\mono\4.5-api\System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entities\Customer.cs" />
+    <Compile Include="Entities\CustomerGroup.cs" />
+    <Compile Include="Entities\ICustomerGroup.cs" />
+    <Compile Include="Entities\LevelEntities.cs" />
+    <Compile Include="Game.cs" />
+    <Compile Include="LevelParser\DrawLevel.cs" />
+    <Compile Include="LevelParser\GetLevel.cs" />
+    <Compile Include="LevelParser\ProcessLevel.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="States\GameOver.cs" />
+    <Compile Include="States\GamePaused.cs" />
+    <Compile Include="States\GameRunning.cs" />
+    <Compile Include="States\GameStateType.cs" />
+    <Compile Include="States\LevelState.cs" />
+    <Compile Include="States\MainMenu.cs" />
+    <Compile Include="States\StateMachine.cs" />
+    <Compile Include="TaxiBus.cs" />
+    <Compile Include="Taxi\Explosions.cs" />
+    <Compile Include="Taxi\Orientation.cs" />
+    <Compile Include="Taxi\Player.cs" />
+    <Compile Include="Taxi\Score.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\.DS_Store" />
+    <Content Include="Assets\Images\aspargus-edge-bottom.png" />
+    <Content Include="Assets\Images\aspargus-edge-left.png" />
+    <Content Include="Assets\Images\aspargus-edge-right.png" />
+    <Content Include="Assets\Images\aspargus-edge-top-left.png" />
+    <Content Include="Assets\Images\aspargus-edge-top-right.png" />
+    <Content Include="Assets\Images\aspargus-edge-top.png" />
+    <Content Include="Assets\Images\aspargus-passage.png" />
+    <Content Include="Assets\Images\aspargus-passage1.png" />
+    <Content Include="Assets\Images\aspargus-passage2.png" />
+    <Content Include="Assets\Images\CustomerStandLeft.png" />
+    <Content Include="Assets\Images\CustomerStandRight.png" />
+    <Content Include="Assets\Images\CustomerWalkLeft.png" />
+    <Content Include="Assets\Images\CustomerWalkRight.png" />
+    <Content Include="Assets\Images\deep-bronze-left-half-circle.png" />
+    <Content Include="Assets\Images\deep-bronze-right-half-circle.png" />
+    <Content Include="Assets\Images\deep-bronze-square.png" />
+    <Content Include="Assets\Images\emperor-lower-left.png" />
+    <Content Include="Assets\Images\emperor-lower-right.png" />
+    <Content Include="Assets\Images\emperor-square.png" />
+    <Content Include="Assets\Images\emperor-upper-left.png" />
+    <Content Include="Assets\Images\emperor-upper-right.png" />
+    <Content Include="Assets\Images\Explosion.png" />
+    <Content Include="Assets\Images\generate-images.sh" />
+    <Content Include="Assets\Images\green-lower-left.png" />
+    <Content Include="Assets\Images\green-lower-right.png" />
+    <Content Include="Assets\Images\green-square.png" />
+    <Content Include="Assets\Images\green-upper-left.png" />
+    <Content Include="Assets\Images\green-upper-right.png" />
+    <Content Include="Assets\Images\ironstone-lower-left.png" />
+    <Content Include="Assets\Images\ironstone-lower-right.png" />
+    <Content Include="Assets\Images\ironstone-square.png" />
+    <Content Include="Assets\Images\ironstone-upper-left.png" />
+    <Content Include="Assets\Images\ironstone-upper-right.png" />
+    <Content Include="Assets\Images\minsk-square.png" />
+    <Content Include="Assets\Images\nandor-square.png" />
+    <Content Include="Assets\Images\neptune-lower-left.png" />
+    <Content Include="Assets\Images\neptune-lower-right.png" />
+    <Content Include="Assets\Images\neptune-square.png" />
+    <Content Include="Assets\Images\neptune-upper-left.png" />
+    <Content Include="Assets\Images\neptune-upper-right.png" />
+    <Content Include="Assets\Images\obstacle.png" />
+    <Content Include="Assets\Images\olive-green-square.png" />
+    <Content Include="Assets\Images\platform.png" />
+    <Content Include="Assets\Images\purple-circle.png" />
+    <Content Include="Assets\Images\salt-box-square.png" />
+    <Content Include="Assets\Images\sanguine-brown-lower-left.png" />
+    <Content Include="Assets\Images\sanguine-brown-lower-right.png" />
+    <Content Include="Assets\Images\sanguine-brown-square.png" />
+    <Content Include="Assets\Images\sanguine-brown-upper-left.png" />
+    <Content Include="Assets\Images\sanguine-brown-upper-right.png" />
+    <Content Include="Assets\Images\sanguine_brown-lower-left.png" />
+    <Content Include="Assets\Images\sanguine_brown-lower-right.png" />
+    <Content Include="Assets\Images\sanguine_brown-square.png" />
+    <Content Include="Assets\Images\sanguine_brown-upper-left.png" />
+    <Content Include="Assets\Images\sanguine_brown-upper-right.png" />
+    <Content Include="Assets\Images\SpaceBackground.png" />
+    <Content Include="Assets\Images\studio-lower-left.png" />
+    <Content Include="Assets\Images\studio-lower-right.png" />
+    <Content Include="Assets\Images\studio-square.png" />
+    <Content Include="Assets\Images\studio-upper-left.png" />
+    <Content Include="Assets\Images\studio-upper-right.png" />
+    <Content Include="Assets\Images\tacha-square.png" />
+    <Content Include="Assets\Images\tacha-upper-right.png" />
+    <Content Include="Assets\Images\Taxi_Thrust_Back.png" />
+    <Content Include="Assets\Images\Taxi_Thrust_Back_Right.png" />
+    <Content Include="Assets\Images\Taxi_Thrust_Bottom.png" />
+    <Content Include="Assets\Images\Taxi_Thrust_Bottom_Back.png" />
+    <Content Include="Assets\Images\Taxi_Thrust_Bottom_Back_Right.png" />
+    <Content Include="Assets\Images\Taxi_Thrust_Bottom_Right.png" />
+    <Content Include="Assets\Images\Taxi_Thrust_None.png" />
+    <Content Include="Assets\Images\Taxi_Thrust_None_Right.png" />
+    <Content Include="Assets\Images\white-left-half-circle.png" />
+    <Content Include="Assets\Images\white-lower-left.png" />
+    <Content Include="Assets\Images\white-lower-right.png" />
+    <Content Include="Assets\Images\white-right-half-circle.png" />
+    <Content Include="Assets\Images\white-square.png" />
+    <Content Include="Assets\Images\white-upper-left.png" />
+    <Content Include="Assets\Images\white-upper-right.png" />
+    <Content Include="Assets\Images\yellow-stick.png" />
+    <Content Include="Levels\short-n-sweet.txt" />
+    <Content Include="Levels\the-beach.txt" />
+    <Content Include="OpenTK.dll.config" />
+    <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\DIKUArcade\DIKUArcade\DIKUArcade.csproj">
+      <Project>{a1e4e4df-0967-4096-9e3c-fbc29b7d07dd}</Project>
+      <Name>DIKUArcade</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+         Other similar extension points exist, see Microsoft.Common.targets.
+    <Target Name="BeforeBuild">
+    </Target>
+    <Target Name="AfterBuild">
+    </Target>
+    -->
+</Project>

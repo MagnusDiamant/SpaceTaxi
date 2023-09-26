@@ -1,0 +1,15 @@
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-3/bin/Debug/TestSpaceTaxi_3.dll
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-3/bin/Debug/TestSpaceTaxi_3.pdb
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-3/bin/Debug/DIKUArcade.dll
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-3/bin/Debug/nunit.framework.dll
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-3/bin/Debug/SpaceTaxi_3.exe
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-3/bin/Debug/OpenTK.dll
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-3/bin/Debug/DIKUArcade.pdb
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-3/bin/Debug/SpaceTaxi_3.pdb
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-3/bin/Debug/nunit.framework.xml
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-3/bin/Debug/OpenTK.xml
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-3/obj/Debug/TestSpaceTaxi-3.csproj.CoreCompileInputs.cache
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-3/obj/Debug/TestSpaceTaxi_3.dll
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-3/obj/Debug/TestSpaceTaxi_3.pdb
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-3/obj/Debug/TestSpaceTaxi-3.csprojAssemblyReference.cache
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-3/obj/Debug/TestSpaceTaxi-3.csproj.CopyComplete

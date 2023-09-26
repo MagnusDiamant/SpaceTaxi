@@ -1,0 +1,17 @@
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-2/bin/Debug/TestSpaceTaxi-2.dll
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-2/bin/Debug/TestSpaceTaxi-2.pdb
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-2/bin/Debug/DIKUArcade.dll
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-2/bin/Debug/nunit.framework.dll
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-2/bin/Debug/SpaceTaxi-2.exe
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-2/bin/Debug/SpaceTaxi_3.exe
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-2/bin/Debug/OpenTK.dll
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-2/bin/Debug/DIKUArcade.pdb
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-2/bin/Debug/SpaceTaxi-2.pdb
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-2/bin/Debug/SpaceTaxi_3.pdb
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-2/bin/Debug/nunit.framework.xml
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-2/bin/Debug/OpenTK.xml
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-2/obj/Debug/TestSpaceTaxi-2.csprojAssemblyReference.cache
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-2/obj/Debug/TestSpaceTaxi-2.csproj.CoreCompileInputs.cache
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-2/obj/Debug/TestSpaceTaxi-2.csproj.CopyComplete
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-2/obj/Debug/TestSpaceTaxi-2.dll
+/Users/marcusdiamant/Desktop/Data/SU/SU19-SpaceTaxi/su19-EmmaNicklasMagnus/SpaceTaxi/TestSpaceTaxi-2/obj/Debug/TestSpaceTaxi-2.pdb
